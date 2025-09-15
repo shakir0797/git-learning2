@@ -1,3 +1,2 @@
 console.log('version-1');
-console.log('version-2');
-console.log('version-3');
+console.log('Version-4 after discarding version 2 and version 3');
